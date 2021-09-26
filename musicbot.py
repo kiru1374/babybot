@@ -315,4 +315,4 @@ async def 대기열재생(ctx):
         else:
             await ctx.send("노래가 이미 재생되고 있어요!")
 
-bot.run('ODg4NzA2NTAyOTg5MzIwMjEz.YUWmbQ.-c9IRy1L8Vx2JIJBy0kIsm6FMbU')
+bot.run('ODg4NzA2NTAyOTg5MzIwMjEz.YUWmbQ.GuLR6Dm9E24m19W9lSE0IfmAbiQ')
